@@ -1,8 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<UserData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<UserData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GameType>Singleplayer</GameType>
   <SingleplayerData>
     <ModDatas>
+      <UserModData>
+        <Id>Bannerlord.Harmony</Id>
+        <LastKnownVersion>v2.3.6.220</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.ButterLib</Id>
+        <LastKnownVersion>v2.10.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.UIExtenderEx</Id>
+        <LastKnownVersion>v2.13.0.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.MBOptionScreen</Id>
+        <LastKnownVersion>v5.10.1.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
       <UserModData>
         <Id>Native</Id>
         <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
@@ -16,7 +36,7 @@
       <UserModData>
         <Id>BirthAndDeath</Id>
         <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>CustomBattle</Id>
@@ -33,12 +53,71 @@
         <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
         <IsSelected>true</IsSelected>
       </UserModData>
+      <UserModData>
+        <Id>BannerColorPersistence</Id>
+        <LastKnownVersion>v1.4.6.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.Diplomacy</Id>
+        <LastKnownVersion>v1.2.13.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
     </ModDatas>
   </SingleplayerData>
   <MultiplayerData>
     <ModDatas />
   </MultiplayerData>
   <DLLCheckData>
-    <DLLData />
+    <DLLData>
+      <DLLCheckData>
+        <DLLName>BannerColorPersistence.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.Harmony.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.ButterLib.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.ModuleLoader.Bannerlord.Diplomacy.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCMv5.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCM.UI.Adapter.MCMv5.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCMv5.UI.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.UIExtenderEx.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+    </DLLData>
   </DLLCheckData>
 </UserData>

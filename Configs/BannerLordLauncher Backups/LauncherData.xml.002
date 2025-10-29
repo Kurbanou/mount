@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameType>Singleplayer</GameType>
+  <SingleplayerData>
+    <ModDatas>
+      <UserModData>
+        <Id>Bannerlord.Harmony</Id>
+        <LastKnownVersion>v2.3.6.220</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Native</Id>
+        <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SandBoxCore</Id>
+        <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BirthAndDeath</Id>
+        <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CustomBattle</Id>
+        <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Sandbox</Id>
+        <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>StoryMode</Id>
+        <LastKnownVersion>v1.2.12.77991</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BannerColorPersistence</Id>
+        <LastKnownVersion>v1.4.6.0</LastKnownVersion>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+    </ModDatas>
+  </SingleplayerData>
+  <MultiplayerData>
+    <ModDatas />
+  </MultiplayerData>
+  <DLLCheckData>
+    <DLLData>
+      <DLLCheckData>
+        <DLLName>KingdomColor.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BannerColorPersistence.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.Harmony.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+    </DLLData>
+  </DLLCheckData>
+</UserData>
